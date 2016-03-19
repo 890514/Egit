@@ -7,6 +7,7 @@ public class TestEgit {
 		System.out.println("222222222222222");
 		System.out.println("github update 01");
 		System.out.println("Egit update 01");
+		System.out.println("二逼青年欢乐多");
 	}
 
 }
